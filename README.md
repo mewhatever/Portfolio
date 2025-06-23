@@ -1,0 +1,1 @@
+This is my personal portfolio website, built entirely using HTML, to showcase my academic background, skills, projects, and contact information. It’s a lightweight, multi-page site designed for simplicity, clarity, and quick access to my profile.
